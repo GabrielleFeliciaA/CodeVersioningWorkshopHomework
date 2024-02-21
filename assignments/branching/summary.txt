@@ -11,4 +11,8 @@ How to branching?
 - Switch to branch:
     ` $ git checkout < file name > `
 - List all branch:
-    ` $ git branch `
+    ` $ git branch
+    
+Combine command:
+` $ git checkout -b < file name > `
+The command above is used to create a new branch and switch to it in one step.
