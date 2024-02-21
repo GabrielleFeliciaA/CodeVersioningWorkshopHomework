@@ -3,3 +3,6 @@ Merging in Git is the process of combining or integrating the changes made in on
 
 Merging Analogy: 
 Merging in git creates a special commit that has 2 unique parents. This means "I want to include all the work from this parent over here and this one over here, and the set of all their parents"
+
+How to do merging:
+` $ git merge < file name > `
