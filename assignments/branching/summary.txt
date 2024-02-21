@@ -1,0 +1,2 @@
+# branching/summary.txt
+Branching in Git is a method for diverging from the main line of development to work on new features, bug fixes or any experiments without affecting the main codebase. Branches in git are simply pointers to a specific commit.
