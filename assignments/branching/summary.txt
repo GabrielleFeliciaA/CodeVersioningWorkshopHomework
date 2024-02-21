@@ -4,3 +4,11 @@ Branching in Git is a method for diverging from the main line of development to 
 Advantages of branching:
 1. Branches in Git are lightweight and inexpensive to create. Creating branches doesn't consume/need much storage or memory.
 2. It's easy to logically divide up work into separate branches which allows developers to work on different features or fixes independently without interfering with each other's changes.
+
+How to branching?
+- Create branch:
+    ` $ git branch < file name > `
+- Switch to branch:
+    ` $ git checkout < file name > `
+- List all branch:
+    ` $ git branch `
