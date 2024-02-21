@@ -40,4 +40,5 @@ Disadvantage of Merging:
 Sometimes histories preserved become to a convoluted web of stories, making the project history more difficult to follow.
 
 **Challenges faced during the assignment and how I overcame it**
+
 The challenge I faced when working on this assignment is during pull requests and code reviews because this material haven't been taught in the training class yet. However I overcame this challenge by figuring it out on my own through Google and Youtube, and by discussing with my colleague. 
