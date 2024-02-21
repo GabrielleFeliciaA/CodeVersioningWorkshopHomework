@@ -10,3 +10,6 @@ How to do merging:
 
 The Advantage of Merging:
 Merging in Git merges two branches together while keeping both branches' histories intact, including the timing and context of all changes. 
+
+Disadvantage of Merging:
+Sometimes histories preserved become to a convoluted web of stories, making the project history more difficult to follow.
