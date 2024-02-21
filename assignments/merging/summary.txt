@@ -8,3 +8,5 @@ How to do merging:
 ` $ git checkout main `
 ` $ git merge < file name > `
 
+The Advantage of Merging:
+Merging in Git merges two branches together while keeping both branches' histories intact, including the timing and context of all changes. 
