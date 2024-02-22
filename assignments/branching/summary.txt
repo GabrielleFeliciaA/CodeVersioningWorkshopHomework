@@ -7,15 +7,15 @@ Advantages of branching:
 
 How to branching?
 - Create branch:
-    ` $ git branch < file name > `
+    ` $ git branch < branch > `
 - Switch to branch:
-    ` $ git checkout < file name > `
+    ` $ git checkout < branch > `
 - List all branch:
     ` $ git branch
     
 Combine command:
-` $ git checkout -b < file name > `
+` $ git checkout -b < branch > `
 The command above is used to create a new branch and switch to it in one step.
 
 Delete branch:
-`$ git branch -d < file name >`
+`$ git branch -d < branch >`
