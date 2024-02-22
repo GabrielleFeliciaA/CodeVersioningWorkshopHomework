@@ -18,6 +18,7 @@ How to branching?
     
 Combine command:
 ` $ git checkout -b < branch > `
+
 The command above is used to create a new branch and switch to it in one step.
 
 Delete branch:
