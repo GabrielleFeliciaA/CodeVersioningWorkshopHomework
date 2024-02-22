@@ -10,18 +10,18 @@ Advantages of branching:
 
 How to branching?
 - Create branch:
-    ` $ git branch < file name > `
+    ` $ git branch < branch > `
 - Switch to branch:
-    ` $ git checkout < file name > `
+    ` $ git checkout < branch > `
 - List all branch:
     ` $ git branch
     
 Combine command:
-` $ git checkout -b < file name > `
+` $ git checkout -b < branch > `
 The command above is used to create a new branch and switch to it in one step.
 
 Delete branch:
-`$ git branch -d < file name >`
+`$ git branch -d < branch >`
 
 # Merging Summary
 Merging in Git is the process of combining or integrating the changes made in one branch to another branch. This allow us to branch off, develop a new feature and then combine it back in.
@@ -31,7 +31,7 @@ Merging in git creates a special commit that has 2 unique parents. This means "I
 
 How to do merging:
 ` $ git checkout main `
-` $ git merge < file name > `
+` $ git merge < branch name > `
 
 The Advantage of Merging:
 Merging in Git merges two branches together while keeping both branches' histories intact, including the timing and context of all changes. 
